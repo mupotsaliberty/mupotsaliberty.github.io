@@ -324,14 +324,14 @@ article {
   }
   #topnav.navbar-shrink .navbar-brand {
     font-size: 1.25em;
-    padding: 12px 0;
+    padding: 12px 
   }
 }
 
 header.bgimage {
   text-align: center;
   color: white;
-  background-image: url("images/header-bg.jpg");
+  background-image: url("header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
