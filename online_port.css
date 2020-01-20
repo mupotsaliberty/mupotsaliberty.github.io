@@ -69,7 +69,7 @@ article {
 #about_nav {
   float: left;
   width: 30%;
-  height: 300px; /* only for demonstration, should be removed */
+  height: 30px; /* only for demonstration, should be removed */
   background: #ccc;
   padding: 20px;
 }
